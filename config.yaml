@@ -1,0 +1,9 @@
+path: D:\ML\cropweeddetection\agri_data
+train: images
+val: images
+
+#Classes
+
+names:
+  0: crop
+  1: weed
